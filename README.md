@@ -6,3 +6,6 @@ The corpus for this portfolio will be a selection of popular rock songs from eac
 
 ### Comparison Points
 It is expected that there will be differences between each decade in terms of musical styles, instrumentation, and production techniques, but some similarities may also be present. For example, the use of guitar, bass, and drums as the core instruments in rock music has remained consistent throughout the years. This portfolio aims to explore the changes over time and provide a comprehensive overview of the history of rock music.
+
+### Trend in track duration
+The included plot displays the duration of 432 rock music tracks released over the period 1960 - 2010, with the x-axis indicating the year of release and the y-axis the track duration The plot also includes a trend line that shows a peak in 1982. Upon analyzing the plot, we can observe that there is a trend towards shorter song durations. If this trend continues, songs may become increasingly shorter in the future. It would be interesting to include more recent songs to see if this trend is still consistent with current rock music releases. This plot has significant implications for the music industry, as it highlights the evolving preferences of listeners towards shorter tracks. As such, it could be useful for music producers and artists in determining the optimal length of their tracks. 
